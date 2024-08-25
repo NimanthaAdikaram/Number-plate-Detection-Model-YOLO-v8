@@ -2,4 +2,3 @@ This project focuses on developing an optimized number plate detection model usi
 libraries like Matplotlib and NumPy are utilized for data visualization and numerical operations, respectively. This integration ensures 
 efficient and accurate vehicle identification and management within the parking area. 
 
-![Picture1](https://github.com/user-attachments/assets/0bd7ddd2-81b0-49bc-913e-0827ecd08f54)
